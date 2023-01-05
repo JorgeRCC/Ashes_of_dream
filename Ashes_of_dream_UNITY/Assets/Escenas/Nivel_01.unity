@@ -192,7 +192,7 @@ MonoBehaviour:
   jumpingForce: 300
   floorDetector:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   floorController: {fileID: 403269623}
   boxDimensions: {x: 0.8, y: 0.2, z: 0}
   onTheFloor: 0
@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 1498785076}
   - component: {fileID: 1498785075}
   - component: {fileID: 1498785074}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
