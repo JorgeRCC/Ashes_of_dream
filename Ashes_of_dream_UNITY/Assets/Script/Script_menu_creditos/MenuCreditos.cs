@@ -19,6 +19,6 @@ public class MenuCreditos : MonoBehaviour
 
     public void EscenaJuegoCreditos()
     {
-        SceneManager.LoadScene("Nivel_01")
+        SceneManager.LoadScene("Nivel_01");
     }
 }
