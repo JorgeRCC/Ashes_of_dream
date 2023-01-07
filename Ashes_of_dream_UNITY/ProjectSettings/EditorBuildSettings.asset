@@ -8,9 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Escenas/Menu_01.unity
     guid: 34c79635131f89b4c96aac06feaa3600
-  - enabled: 1
-    path: Assets/Escenas/Menu_Option.unity
-    guid: 68ecb442ed33479449967c049bf5753e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Escenas/Nivel_01.unity
     guid: 4bf2fabe5ac7ab04db04c3d122abc3af
