@@ -5,13 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class MenuGameOver : MonoBehaviour
 {
-    public void Reiniciar()
+   public void EscenaReiniciar()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene("Nivel_01");
+
     }
 
+     public void EscenaMenu()
 
-    public void EscenaMenu()
     {
         SceneManager.LoadScene("Menu_01");
     }
@@ -21,5 +22,4 @@ public class MenuGameOver : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }
-}
-
+ }
