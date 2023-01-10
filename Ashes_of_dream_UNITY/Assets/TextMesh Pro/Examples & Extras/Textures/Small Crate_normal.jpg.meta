@@ -113,6 +113,22 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+<<<<<<<< HEAD:Ashes_of_dream_UNITY/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta
+========
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>>> PercyMenu:Ashes_of_dream_UNITY/Assets/Sprites/Menu_01/BackGround/Símbolo 10.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites: []
