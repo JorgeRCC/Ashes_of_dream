@@ -7,7 +7,8 @@ public class Button_Menu : MonoBehaviour
 {
     public void EscenaMenu()
     {
-        SceneManager.LoadScene("Menu_01");
+        //SceneManager.LoadScene("Menu_01");
+        SceneManager.LoadScene("Menu");
 
     }
 
