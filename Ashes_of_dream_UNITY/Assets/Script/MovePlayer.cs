@@ -35,24 +35,17 @@ public class MovePlayer : MonoBehaviour
 
     private bool jump = false;
 
-    [Header("Animation")]
-
-    private Animator animator;
-
 
     // Start is called before the first frame update
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        animator.SetFloat("Horizontal", Mathf.Abs(horizontalMovement));
-
         if (onTheFloor == true)
         {
             horizontalMovement = Input.GetAxisRaw("Horizontal") * moveSpeed;
@@ -72,7 +65,6 @@ public class MovePlayer : MonoBehaviour
     private void FixedUpdate()
     {
         onTheFloor = Physics2D.OverlapBox(floorController.position, boxDimensions, 0f, floorDetector);
-        animator.SetBool("onTheFloor", onTheFloor);
 
         Move(horizontalMovement * Time.fixedDeltaTime, jump);
 
