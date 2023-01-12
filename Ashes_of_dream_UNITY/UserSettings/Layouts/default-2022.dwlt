@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 96
+  controlID: 38
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,30 +325,30 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Escenas
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Proyecto_SENATI\Ashes_of_dream\Ashes_of_dream_UNITY
+  m_LastProjectPath: C:\Users\Luis\Documents\GitHub\prueba 2\Ashes_of_dream\Ashes_of_dream_UNITY
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 43}
-    m_SelectedIDs: 706c0000
-    m_LastClickedID: 27760
-    m_ExpandedIDs: 00000000cc6a0000ce6a0000d06a0000d26a0000786c0000827c0000c07d00009281000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 129a0000
+    m_LastClickedID: 39442
+    m_ExpandedIDs: 000000008c99000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Sprites
+      m_OriginalName: Sprites
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 39460
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000cc6a0000ce6a0000d06a0000d26a0000
+    m_ExpandedIDs: 000000008c990000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000ee700000
+    m_ExpandedInstanceIDs: c6230000ee7000002e670100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,21 +490,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: cc9effff3ea5ffff08b6ffffbec4ffff90d6ffff22e3ffff36e4ffff76e6ffff86e8ffffd4ebfffff6eeffff90efffff34f0fffffef0ffffa2f1ffff4af2ffff3cf4ffff8af4ffff70f9ffff28fbffff4c6d00009c6f0000f4c500004ec60000c2c90000eac900002acb000084cb00008ecb000098cd0000decd00006cce0000a8d30000ded30000e4d90000eed900003edc0000d0e600002ee90000
+      m_ExpandedIDs: 4c22fffff022ffff9023ffffc825ffff6c26ffff0e27ffffa627ffff3e28ffffd628ffff7029ffff802bffff222cffffc42cffffd42effff7c2fffff2230ffffc030ffff5c31fffff631ffff9632ffff3233ffffa459ffff70e0ffff4ee1ffff06e3fffff2a0000032a1000078a1000072a3000074a5010068aa0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Coin
+        m_OriginalName: Coin
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -56758
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -805,9 +805,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.47869787, y: -0.86658245, z: 171.72693}
+    m_Target: {x: -2.7880132, y: -3.5088198, z: -0.03990876}
     speed: 2
-    m_Value: {x: 0.47869787, y: -0.86658245, z: 171.72693}
+    m_Value: {x: -2.7880132, y: -3.5088198, z: -0.03990876}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -857,9 +857,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.660609
+    m_Target: 4.7050166
     speed: 2
-    m_Value: 2.660609
+    m_Value: 4.7050166
   m_Ortho:
     m_Target: 1
     speed: 2
