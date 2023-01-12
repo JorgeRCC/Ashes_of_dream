@@ -19245,6 +19245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_01
       objectReference: {fileID: 0}
+    - target: {fileID: 2896230500537348181, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.92
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
@@ -19346,7 +19350,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 344047973404391652, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5
+      value: -5.52
       objectReference: {fileID: 0}
     - target: {fileID: 1656532250905500224, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_Name
