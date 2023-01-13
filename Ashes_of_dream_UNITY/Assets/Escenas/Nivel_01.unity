@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7146599}
   - component: {fileID: 7146600}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 8481423}
   - component: {fileID: 8481425}
   - component: {fileID: 8481424}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_01_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,7 +328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 12928745}
   - component: {fileID: 12928746}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 13934339}
   - component: {fileID: 13934340}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_6 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   - component: {fileID: 17164703}
   - component: {fileID: 17164705}
   - component: {fileID: 17164704}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PISO_01_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -607,7 +607,7 @@ GameObject:
   m_Component:
   - component: {fileID: 17263337}
   - component: {fileID: 17263338}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -692,7 +692,7 @@ GameObject:
   - component: {fileID: 22545966}
   - component: {fileID: 22545968}
   - component: {fileID: 22545967}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_01_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -802,7 +802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 27968020}
   - component: {fileID: 27968021}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -886,7 +886,7 @@ GameObject:
   m_Component:
   - component: {fileID: 29877151}
   - component: {fileID: 29877152}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -970,7 +970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 70881335}
   - component: {fileID: 70881336}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1054,7 +1054,7 @@ GameObject:
   m_Component:
   - component: {fileID: 77853889}
   - component: {fileID: 77853890}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1138,7 +1138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78189340}
   - component: {fileID: 78189341}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1222,7 +1222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 83049262}
   - component: {fileID: 83049263}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1306,7 +1306,7 @@ GameObject:
   m_Component:
   - component: {fileID: 87576191}
   - component: {fileID: 87576192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1390,7 +1390,7 @@ GameObject:
   m_Component:
   - component: {fileID: 95533338}
   - component: {fileID: 95533339}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square_fondo (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1474,7 +1474,7 @@ GameObject:
   m_Component:
   - component: {fileID: 96626630}
   - component: {fileID: 96626631}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1558,7 +1558,7 @@ GameObject:
   m_Component:
   - component: {fileID: 98198248}
   - component: {fileID: 98198249}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1642,7 +1642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 103918255}
   - component: {fileID: 103918256}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1726,7 +1726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 109814061}
   - component: {fileID: 109814062}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1957,7 +1957,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170509517}
   - component: {fileID: 170509518}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2041,7 +2041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 199933698}
   - component: {fileID: 199933699}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2127,6 +2127,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2183,6 +2191,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -2219,6 +2231,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -2232,7 +2248,7 @@ GameObject:
   m_Component:
   - component: {fileID: 205844936}
   - component: {fileID: 205844937}
-  m_Layer: 7
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2315,7 +2331,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 211815111}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject_Escenario
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2340,7 +2356,7 @@ Transform:
   - {fileID: 1456844311}
   - {fileID: 642223383}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &212016315
 GameObject:
@@ -2352,7 +2368,7 @@ GameObject:
   m_Component:
   - component: {fileID: 212016316}
   - component: {fileID: 212016317}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2436,7 +2452,7 @@ GameObject:
   m_Component:
   - component: {fileID: 212516675}
   - component: {fileID: 212516676}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2520,7 +2536,7 @@ GameObject:
   m_Component:
   - component: {fileID: 219671603}
   - component: {fileID: 219671604}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2604,7 +2620,7 @@ GameObject:
   m_Component:
   - component: {fileID: 221718583}
   - component: {fileID: 221718584}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2695,6 +2711,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2751,6 +2775,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -2787,6 +2815,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -2800,7 +2832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 243609521}
   - component: {fileID: 243609522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2885,7 +2917,7 @@ GameObject:
   - component: {fileID: 245296179}
   - component: {fileID: 245296181}
   - component: {fileID: 245296180}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2995,7 +3027,7 @@ GameObject:
   m_Component:
   - component: {fileID: 259926632}
   - component: {fileID: 259926633}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3078,7 +3110,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 268682325}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Flores_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3124,7 +3156,7 @@ GameObject:
   m_Component:
   - component: {fileID: 268881618}
   - component: {fileID: 268881619}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3397,7 +3429,7 @@ GameObject:
   - component: {fileID: 279954719}
   - component: {fileID: 279954718}
   - component: {fileID: 279954717}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3507,7 +3539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 292586796}
   - component: {fileID: 292586797}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3591,7 +3623,7 @@ GameObject:
   m_Component:
   - component: {fileID: 306124218}
   - component: {fileID: 306124219}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3677,7 +3709,7 @@ GameObject:
   - component: {fileID: 313496996}
   - component: {fileID: 313496995}
   - component: {fileID: 313496994}
-  m_Layer: 7
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3956,13 +3988,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1656532250905500224, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2559299345549676945, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4177283668613770130, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990795930842857248, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666077628716227266, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903305120168666388, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7810547205470320182, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_RootOrder
@@ -4023,6 +4071,10 @@ PrefabInstance:
     - target: {fileID: 8376797796103165350, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414327014178032615, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -4224,7 +4276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 341707132}
   - component: {fileID: 341707133}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4307,7 +4359,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 349799999}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject_Escena_arboles_+2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4357,7 +4409,7 @@ GameObject:
   - component: {fileID: 353010810}
   - component: {fileID: 353010812}
   - component: {fileID: 353010811}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_01_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4469,6 +4521,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4525,6 +4585,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -4561,6 +4625,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -4574,7 +4642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 377425843}
   - component: {fileID: 377425844}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4911,13 +4979,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1656532250905500224, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2559299345549676945, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4177283668613770130, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990795930842857248, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666077628716227266, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903305120168666388, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7810547205470320182, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_RootOrder
@@ -4978,6 +5062,10 @@ PrefabInstance:
     - target: {fileID: 8376797796103165350, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414327014178032615, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -5180,7 +5268,7 @@ GameObject:
   - component: {fileID: 390069412}
   - component: {fileID: 390069414}
   - component: {fileID: 390069413}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PISO_01_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5290,7 +5378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 393815575}
   - component: {fileID: 393815576}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5423,6 +5511,26 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 2097922995}
     m_Modifications:
+    - target: {fileID: 5030277467502261929, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277467596250119, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277468520903995, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469117061638, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469180349359, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5030277469180349360, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.5352783
@@ -5439,9 +5547,21 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -79.8286
       objectReference: {fileID: 0}
+    - target: {fileID: 5030277469382855121, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469482700752, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5033977852842224788, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
       propertyPath: m_Name
       value: Suelo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033977852842224788, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6572247511415702654, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
       propertyPath: m_RootOrder
@@ -5515,7 +5635,7 @@ GameObject:
   m_Component:
   - component: {fileID: 447200684}
   - component: {fileID: 447200685}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5599,7 +5719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 459446118}
   - component: {fileID: 459446119}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5683,7 +5803,7 @@ GameObject:
   m_Component:
   - component: {fileID: 460907510}
   - component: {fileID: 460907511}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5767,7 +5887,7 @@ GameObject:
   m_Component:
   - component: {fileID: 462692417}
   - component: {fileID: 462692418}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5851,7 +5971,7 @@ GameObject:
   m_Component:
   - component: {fileID: 472974709}
   - component: {fileID: 472974710}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6082,7 +6202,7 @@ GameObject:
   m_Component:
   - component: {fileID: 476123559}
   - component: {fileID: 476123560}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6166,7 +6286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 482072520}
   - component: {fileID: 482072521}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6342,7 +6462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 492591661}
   - component: {fileID: 492591662}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6429,6 +6549,7 @@ GameObject:
   - component: {fileID: 494907479}
   - component: {fileID: 494907483}
   - component: {fileID: 494907482}
+  - component: {fileID: 494907484}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -6471,7 +6592,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 15.21059
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -6495,7 +6616,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 494907478}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 4.6, z: -10}
+  m_LocalPosition: {x: 0, y: 1.04, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6509,14 +6630,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 494907478}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba572bff8df7c174084b411958180350, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   FollowSpeed: 15
   yOffset: 7
-  target: {fileID: 1874628803}
+  target: {fileID: 0}
 --- !u!114 &494907483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6550,6 +6671,40 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!114 &494907484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494907478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShowDebugText: 0
+  m_ShowCameraFrustum: 1
+  m_IgnoreTimeScale: 0
+  m_WorldUpOverride: {fileID: 0}
+  m_UpdateMethod: 2
+  m_BlendUpdateMethod: 1
+  m_DefaultBlend:
+    m_Style: 1
+    m_Time: 2
+    m_CustomCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  m_CustomBlends: {fileID: 0}
+  m_CameraCutEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_CameraActivatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &499528729
 GameObject:
   m_ObjectHideFlags: 0
@@ -6560,7 +6715,7 @@ GameObject:
   m_Component:
   - component: {fileID: 499528730}
   - component: {fileID: 499528731}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6644,7 +6799,7 @@ GameObject:
   m_Component:
   - component: {fileID: 506597062}
   - component: {fileID: 506597063}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6727,7 +6882,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 513902009}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Torres
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6943,7 +7098,7 @@ GameObject:
   - component: {fileID: 521729325}
   - component: {fileID: 521729324}
   - component: {fileID: 521729323}
-  m_Layer: 7
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7073,7 +7228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 537625710}
   - component: {fileID: 537625711}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7159,7 +7314,7 @@ GameObject:
   - component: {fileID: 547793696}
   - component: {fileID: 547793695}
   - component: {fileID: 547793694}
-  m_Layer: 7
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7289,7 +7444,7 @@ GameObject:
   m_Component:
   - component: {fileID: 566087586}
   - component: {fileID: 566087587}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7373,7 +7528,7 @@ GameObject:
   m_Component:
   - component: {fileID: 599377249}
   - component: {fileID: 599377250}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7457,7 +7612,7 @@ GameObject:
   m_Component:
   - component: {fileID: 601888581}
   - component: {fileID: 601888582}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7543,7 +7698,7 @@ GameObject:
   - component: {fileID: 602888988}
   - component: {fileID: 602888987}
   - component: {fileID: 602888986}
-  m_Layer: 7
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7673,7 +7828,7 @@ GameObject:
   m_Component:
   - component: {fileID: 614062698}
   - component: {fileID: 614062699}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7757,7 +7912,7 @@ GameObject:
   m_Component:
   - component: {fileID: 614836145}
   - component: {fileID: 614836146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7841,7 +7996,7 @@ GameObject:
   m_Component:
   - component: {fileID: 617874328}
   - component: {fileID: 617874329}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7925,7 +8080,7 @@ GameObject:
   m_Component:
   - component: {fileID: 628495183}
   - component: {fileID: 628495184}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8009,7 +8164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 628759540}
   - component: {fileID: 628759541}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8092,7 +8247,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 642223383}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject_Escena_fondo_+5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8125,7 +8280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 645486020}
   - component: {fileID: 645486021}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8209,7 +8364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 648828008}
   - component: {fileID: 648828009}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8293,7 +8448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 649611139}
   - component: {fileID: 649611140}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8377,7 +8532,7 @@ GameObject:
   m_Component:
   - component: {fileID: 651701720}
   - component: {fileID: 651701721}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8512,7 +8667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 654399990}
   - component: {fileID: 654399991}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8596,7 +8751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 663873226}
   - component: {fileID: 663873227}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8680,7 +8835,7 @@ GameObject:
   m_Component:
   - component: {fileID: 665065516}
   - component: {fileID: 665065517}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8764,7 +8919,7 @@ GameObject:
   m_Component:
   - component: {fileID: 688071769}
   - component: {fileID: 688071770}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8848,7 +9003,7 @@ GameObject:
   m_Component:
   - component: {fileID: 704923850}
   - component: {fileID: 704923851}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8932,7 +9087,7 @@ GameObject:
   m_Component:
   - component: {fileID: 706323786}
   - component: {fileID: 706323787}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9016,7 +9171,7 @@ GameObject:
   m_Component:
   - component: {fileID: 726644769}
   - component: {fileID: 726644770}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9100,7 +9255,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737016523}
   - component: {fileID: 737016524}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9184,7 +9339,7 @@ GameObject:
   m_Component:
   - component: {fileID: 743205315}
   - component: {fileID: 743205316}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9258,6 +9413,174 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &765561387
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 765561388}
+  - component: {fileID: 765561393}
+  - component: {fileID: 765561392}
+  - component: {fileID: 765561391}
+  - component: {fileID: 765561390}
+  - component: {fileID: 765561389}
+  m_Layer: 0
+  m_Name: Player_Test
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &765561388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765561387}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.04, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1090225256}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &765561389
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765561387}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 27cf660d84fdbda43b7317616015ac84, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &765561390
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765561387}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0074315667, y: -0.029726267}
+  m_Size: {x: 1.8745679, y: 5.3838315}
+  m_Direction: 0
+--- !u!114 &765561391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765561387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4712d54e61b30f643b8e094e0cd23477, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 400
+  motionSmoothing: 0.15
+  airMovementSpeed: 100
+  jumpingForce: 400
+  floorDetector:
+    serializedVersion: 2
+    m_Bits: 8
+  floorController: {fileID: 1090225256}
+  boxDimensions: {x: 1.3, y: 0.2, z: 0}
+  onTheFloor: 0
+--- !u!50 &765561392
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765561387}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 6200000, guid: fb36a318aab75444386044ccd7690f71, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4
+--- !u!212 &765561393
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765561387}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: f016e1aef716edb42bddaf900ba64a6f, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4, y: 5.8}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &768105221 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -9304,7 +9627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 775159400}
   - component: {fileID: 775159401}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9388,7 +9711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 783587608}
   - component: {fileID: 783587609}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9508,7 +9831,7 @@ GameObject:
   m_Component:
   - component: {fileID: 847408515}
   - component: {fileID: 847408516}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9592,7 +9915,7 @@ GameObject:
   m_Component:
   - component: {fileID: 852347739}
   - component: {fileID: 852347740}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9678,6 +10001,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -9734,6 +10065,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -9770,6 +10105,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -9783,7 +10122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 854064239}
   - component: {fileID: 854064240}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9867,7 +10206,7 @@ GameObject:
   m_Component:
   - component: {fileID: 854811094}
   - component: {fileID: 854811095}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9958,6 +10297,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10014,6 +10361,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -10049,6 +10400,10 @@ PrefabInstance:
     - target: {fileID: 6574701947537226117, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -10098,7 +10453,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 859603279}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Castillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10142,7 +10497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 863968305}
   - component: {fileID: 863968306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10226,7 +10581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 875435228}
   - component: {fileID: 875435229}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10310,7 +10665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 879375414}
   - component: {fileID: 879375415}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10393,7 +10748,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 885217707}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trampa_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10427,6 +10782,14 @@ PrefabInstance:
     - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_Name
       value: ARCO_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
@@ -10484,6 +10847,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -10520,6 +10887,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -10535,7 +10906,7 @@ GameObject:
   - component: {fileID: 906295862}
   - component: {fileID: 906295861}
   - component: {fileID: 906295860}
-  m_Layer: 7
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10665,7 +11036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 916179491}
   - component: {fileID: 916179492}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10749,7 +11120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 934879727}
   - component: {fileID: 934879728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10833,7 +11204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 934925773}
   - component: {fileID: 934925774}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10917,7 +11288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 941354155}
   - component: {fileID: 941354156}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11001,7 +11372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 953314192}
   - component: {fileID: 953314193}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11085,7 +11456,7 @@ GameObject:
   m_Component:
   - component: {fileID: 955889025}
   - component: {fileID: 955889026}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11169,7 +11540,7 @@ GameObject:
   m_Component:
   - component: {fileID: 958240602}
   - component: {fileID: 958240603}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11253,7 +11624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 959362099}
   - component: {fileID: 959362100}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11337,7 +11708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 960544074}
   - component: {fileID: 960544075}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11421,7 +11792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 965859838}
   - component: {fileID: 965859839}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11505,7 +11876,7 @@ GameObject:
   m_Component:
   - component: {fileID: 967285437}
   - component: {fileID: 967285438}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11589,7 +11960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 979457973}
   - component: {fileID: 979457974}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11673,7 +12044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 984687402}
   - component: {fileID: 984687403}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PISO_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11904,7 +12275,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1002793916}
   - component: {fileID: 1002793917}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11978,6 +12349,94 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1010269554
+GameObject:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1010269555}
+  - component: {fileID: 1010269557}
+  - component: {fileID: 1010269556}
+  m_Layer: 0
+  m_Name: cm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1010269555
+Transform:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010269554}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.2776747, y: 3.4336765, z: 10.644541}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1626636368}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1010269556
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010269554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
+  m_LookaheadTime: 0
+  m_LookaheadSmoothing: 0
+  m_LookaheadIgnoreY: 0
+  m_XDamping: 1
+  m_YDamping: 1
+  m_ZDamping: 1
+  m_TargetMovementOnly: 1
+  m_ScreenX: 0.5
+  m_ScreenY: 0.5
+  m_CameraDistance: 10
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
+  m_DeadZoneDepth: 0
+  m_UnlimitedSoftZone: 0
+  m_SoftZoneWidth: 0.8
+  m_SoftZoneHeight: 0.8
+  m_BiasX: 0
+  m_BiasY: 0
+  m_CenterOnActivate: 1
+  m_GroupFramingMode: 2
+  m_AdjustmentMode: 0
+  m_GroupFramingSize: 0.8
+  m_MaxDollyIn: 5000
+  m_MaxDollyOut: 5000
+  m_MinimumDistance: 1
+  m_MaximumDistance: 5000
+  m_MinimumFOV: 3
+  m_MaximumFOV: 60
+  m_MinimumOrthoSize: 1
+  m_MaximumOrthoSize: 5000
+--- !u!114 &1010269557
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010269554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1016095435
 GameObject:
   m_ObjectHideFlags: 0
@@ -11988,7 +12447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1016095437}
   - component: {fileID: 1016095436}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_6 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12062,38 +12521,6 @@ Transform:
   m_Father: {fileID: 268682325}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1036620386
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1036620387}
-  m_Layer: 0
-  m_Name: Character_01
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1036620387
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1036620386}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.57, y: -2.06, z: -1}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1874628803}
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1058586893
 GameObject:
   m_ObjectHideFlags: 0
@@ -12105,7 +12532,7 @@ GameObject:
   - component: {fileID: 1058586894}
   - component: {fileID: 1058586896}
   - component: {fileID: 1058586895}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_01_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12215,7 +12642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1062145400}
   - component: {fileID: 1062145401}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12299,7 +12726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1075361912}
   - component: {fileID: 1075361913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12383,7 +12810,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1076506573}
   - component: {fileID: 1076506574}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12467,7 +12894,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1083631901}
   - component: {fileID: 1083631902}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12541,6 +12968,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1090225255
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1090225256}
+  m_Layer: 0
+  m_Name: floorController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1090225256
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1090225255}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -2.68, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 765561388}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1105727363
 GameObject:
   m_ObjectHideFlags: 0
@@ -12551,7 +13009,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1105727364}
   - component: {fileID: 1105727365}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12634,7 +13092,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1124635192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12670,7 +13128,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1127158165}
   - component: {fileID: 1127158166}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12754,7 +13212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1129022984}
   - component: {fileID: 1129022985}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12838,7 +13296,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1134376550}
   - component: {fileID: 1134376551}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12923,7 +13381,7 @@ GameObject:
   - component: {fileID: 1149773978}
   - component: {fileID: 1149773980}
   - component: {fileID: 1149773979}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13031,7 +13489,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1172827326}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject_Escena_suelo_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13079,7 +13537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1181694083}
   - component: {fileID: 1181694084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13163,7 +13621,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1182011490}
   - component: {fileID: 1182011491}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Colider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13376,7 +13834,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1182578652}
   - component: {fileID: 1182578653}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13460,7 +13918,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1202792052}
   - component: {fileID: 1202792053}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13727,7 +14185,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1221247258}
   - component: {fileID: 1221247259}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13811,7 +14269,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1239599332}
   - component: {fileID: 1239599333}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13895,7 +14353,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1240009270}
   - component: {fileID: 1240009271}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13979,7 +14437,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1242229912}
   - component: {fileID: 1242229913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_6 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14063,7 +14521,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1245621962}
   - component: {fileID: 1245621963}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14147,7 +14605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1247648832}
   - component: {fileID: 1247648833}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square_fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14231,7 +14689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1248258601}
   - component: {fileID: 1248258602}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14314,7 +14772,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1259592693}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Arboles_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14437,7 +14895,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1263736600}
   - component: {fileID: 1263736601}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14521,7 +14979,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1271237054}
   - component: {fileID: 1271237055}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14605,7 +15063,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1296716876}
   - component: {fileID: 1296716877}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14689,7 +15147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1302506621}
   - component: {fileID: 1302506622}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14774,7 +15232,7 @@ GameObject:
   - component: {fileID: 1317001849}
   - component: {fileID: 1317001851}
   - component: {fileID: 1317001850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PISO_01_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14884,7 +15342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1323749787}
   - component: {fileID: 1323749788}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14998,7 +15456,7 @@ Transform:
   - {fileID: 1206213757}
   - {fileID: 1999912143}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1340655415 stripped
 GameObject:
@@ -15061,7 +15519,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1341553626}
   - component: {fileID: 1341553627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15145,7 +15603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1372210787}
   - component: {fileID: 1372210788}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15265,7 +15723,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1387983413}
   - component: {fileID: 1387983414}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15385,7 +15843,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1393325106}
   - component: {fileID: 1393325107}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15505,7 +15963,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1404796355}
   - component: {fileID: 1404796356}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15589,7 +16047,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1407218331}
   - component: {fileID: 1407218332}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15673,7 +16131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1418147945}
   - component: {fileID: 1418147946}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15757,7 +16215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1418828349}
   - component: {fileID: 1418828350}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15839,9 +16297,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1172827326}
     m_Modifications:
+    - target: {fileID: 1232391161169182238, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1272760748517840222, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278360175521858356, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1530875847081985276, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_RootOrder
@@ -15902,6 +16368,10 @@ PrefabInstance:
     - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Name
       value: Trampas_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2896230500537348181, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15980,7 +16450,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1420529258}
   - component: {fileID: 1420529259}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16064,7 +16534,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1446794493}
   - component: {fileID: 1446794494}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16148,7 +16618,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1450609623}
   - component: {fileID: 1450609624}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16231,7 +16701,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1455350201}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16269,7 +16739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1455457951}
   - component: {fileID: 1455457952}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16352,7 +16822,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1456844311}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject_Escena_arboles_+3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16401,7 +16871,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1457576835}
   - component: {fileID: 1457576836}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16485,7 +16955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1459965164}
   - component: {fileID: 1459965165}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16571,6 +17041,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -16627,6 +17105,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -16662,6 +17144,10 @@ PrefabInstance:
     - target: {fileID: 6574701947537226117, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -16768,7 +17254,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1475269699}
   - component: {fileID: 1475269700}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16853,7 +17339,7 @@ GameObject:
   - component: {fileID: 1476026051}
   - component: {fileID: 1476026053}
   - component: {fileID: 1476026052}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_01_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16963,7 +17449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1476430952}
   - component: {fileID: 1476430953}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17047,7 +17533,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1477819472}
   - component: {fileID: 1477819473}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17131,7 +17617,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1487173627}
   - component: {fileID: 1487173628}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17251,7 +17737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517117828}
   - component: {fileID: 1517117829}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17482,7 +17968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1531178606}
   - component: {fileID: 1531178607}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17568,6 +18054,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17624,6 +18118,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -17660,6 +18158,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -17673,7 +18175,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1544059564}
   - component: {fileID: 1544059565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17757,7 +18259,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1551236964}
   - component: {fileID: 1551236965}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17841,7 +18343,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1584616237}
   - component: {fileID: 1584616238}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17925,7 +18427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1587537414}
   - component: {fileID: 1587537415}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18011,6 +18513,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -18067,6 +18577,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -18103,6 +18617,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -18116,7 +18634,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1616481300}
   - component: {fileID: 1616481301}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square_fondo (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18198,9 +18716,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1172827326}
     m_Modifications:
+    - target: {fileID: 1232391161169182238, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1272760748517840222, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278360175521858356, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1530875847081985276, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_RootOrder
@@ -18262,6 +18788,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2896230500537348181, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.1459816
@@ -18273,6 +18803,77 @@ PrefabInstance:
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+--- !u!1 &1626636366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1626636368}
+  - component: {fileID: 1626636367}
+  m_Layer: 0
+  m_Name: Camera_Player_Test
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1626636367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626636366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExcludedPropertiesInInspector:
+  - m_Script
+  m_LockStageInInspector: 
+  m_StreamingVersion: 20170927
+  m_Priority: 10
+  m_StandbyUpdate: 2
+  m_LookAt: {fileID: 0}
+  m_Follow: {fileID: 765561388}
+  m_Lens:
+    FieldOfView: 60
+    OrthographicSize: 10
+    NearClipPlane: 0.3
+    FarClipPlane: 1000
+    Dutch: 0
+    ModeOverride: 0
+    LensShift: {x: 0, y: 0}
+    GateFit: 2
+    m_SensorSize: {x: 1, y: 1}
+  m_Transitions:
+    m_BlendHint: 0
+    m_InheritPosition: 0
+    m_OnCameraLive:
+      m_PersistentCalls:
+        m_Calls: []
+  m_LegacyBlendHint: 0
+  m_ComponentOwner: {fileID: 1010269555}
+--- !u!4 &1626636368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626636366}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.04, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1010269555}
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1632314163
 GameObject:
   m_ObjectHideFlags: 0
@@ -18283,7 +18884,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1632314164}
   - component: {fileID: 1632314165}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18367,7 +18968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1643688187}
   - component: {fileID: 1643688188}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18563,7 +19164,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1650347150
 GameObject:
@@ -18574,7 +19175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1650347151}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Arboles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18636,7 +19237,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1652719913}
   - component: {fileID: 1652719914}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18720,7 +19321,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1674006106}
   - component: {fileID: 1674006107}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRAMPAS_OTROS_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18804,7 +19405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1676701176}
   - component: {fileID: 1676701177}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18888,7 +19489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1704352068}
   - component: {fileID: 1704352069}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18972,7 +19573,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1717771323}
   - component: {fileID: 1717771324}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19056,7 +19657,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1735759105}
   - component: {fileID: 1735759106}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19140,7 +19741,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1742025843}
   - component: {fileID: 1742025844}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19224,7 +19825,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1751260698}
   - component: {fileID: 1751260699}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19308,7 +19909,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1754360519}
   - component: {fileID: 1754360520}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19394,6 +19995,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -19450,6 +20059,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -19486,6 +20099,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -19500,6 +20117,14 @@ PrefabInstance:
     - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_Name
       value: ARCO_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
@@ -19557,6 +20182,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -19593,6 +20222,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -19606,7 +20239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1790109083}
   - component: {fileID: 1790109084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19690,7 +20323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1792035642}
   - component: {fileID: 1792035643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19921,7 +20554,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1805243049}
   - component: {fileID: 1805243050}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20060,7 +20693,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1816944747
 GameObject:
@@ -20072,7 +20705,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1816944748}
   - component: {fileID: 1816944749}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20303,7 +20936,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1839488031}
   - component: {fileID: 1839488032}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20423,7 +21056,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1850730210}
   - component: {fileID: 1850730211}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20508,7 +21141,7 @@ GameObject:
   - component: {fileID: 1861083239}
   - component: {fileID: 1861083241}
   - component: {fileID: 1861083240}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_01_0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20618,7 +21251,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1861478223}
   - component: {fileID: 1861478222}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20702,7 +21335,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1862357021}
   - component: {fileID: 1862357022}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20776,144 +21409,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1874628802
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1874628803}
-  - component: {fileID: 1874628805}
-  - component: {fileID: 1874628804}
-  - component: {fileID: 1874628807}
-  - component: {fileID: 1874628806}
-  m_Layer: 6
-  m_Name: Capsule
-  m_TagString: Player
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1874628803
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874628802}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -3.1}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1036620387}
-  m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1874628804
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874628802}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b55b56357ac38a4f86cce4ddac8b458, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidadMovimiento: 10
-  fuerzaSalto: 4.5
---- !u!212 &1874628805
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874628802}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!50 &1874628806
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874628802}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
---- !u!70 &1874628807
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874628802}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1, y: 2}
-  m_Direction: 0
 --- !u!1 &1886686522
 GameObject:
   m_ObjectHideFlags: 0
@@ -20924,7 +21419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1886686523}
   - component: {fileID: 1886686524}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21008,7 +21503,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1894305273}
   - component: {fileID: 1894305274}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21092,7 +21587,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1907887984}
   - component: {fileID: 1907887985}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21176,7 +21671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911704591}
   - component: {fileID: 1911704592}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21258,9 +21753,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1172827326}
     m_Modifications:
+    - target: {fileID: 1232391161169182238, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1272760748517840222, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278360175521858356, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1530875847081985276, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_RootOrder
@@ -21321,6 +21824,10 @@ PrefabInstance:
     - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Name
       value: Trampas_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2896230500537348181, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21416,6 +21923,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ARCO_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1028383669280531888, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295336865692743071, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2260164005137030842, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -21472,6 +21987,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3953394363025383092, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4656740791520992376, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.4237
@@ -21508,6 +22027,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6871770489755533029, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 79133cd8d6b70c147b32efd24a655417, type: 3}
@@ -21521,7 +22044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1925502218}
   - component: {fileID: 1925502219}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_3 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21606,7 +22129,7 @@ GameObject:
   - component: {fileID: 1934183172}
   - component: {fileID: 1934183171}
   - component: {fileID: 1934183170}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21730,13 +22253,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1656532250905500224, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2559299345549676945, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4177283668613770130, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990795930842857248, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666077628716227266, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903305120168666388, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7810547205470320182, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_RootOrder
@@ -21797,6 +22336,10 @@ PrefabInstance:
     - target: {fileID: 8376797796103165350, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414327014178032615, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -21998,7 +22541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1939560831}
   - component: {fileID: 1939560832}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22082,7 +22625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1944929428}
   - component: {fileID: 1944929429}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square_fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22166,7 +22709,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1945326080}
   - component: {fileID: 1945326081}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22250,7 +22793,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1952029674}
   - component: {fileID: 1952029675}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22334,7 +22877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1959347950}
   - component: {fileID: 1959347951}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22418,7 +22961,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1963137280}
   - component: {fileID: 1963137281}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_4 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22502,7 +23045,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1966671462}
   - component: {fileID: 1966671463}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22591,7 +23134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1983388698}
   - component: {fileID: 1983388699}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22708,7 +23251,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1999894335
 GameObject:
@@ -22720,7 +23263,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1999894336}
   - component: {fileID: 1999894337}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22809,7 +23352,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2006912712}
   - component: {fileID: 2006912713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22893,7 +23436,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2008000957}
   - component: {fileID: 2008000958}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22977,7 +23520,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2013974908}
   - component: {fileID: 2013974909}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23061,7 +23604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2014828290}
   - component: {fileID: 2014828291}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23145,7 +23688,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2017575657}
   - component: {fileID: 2017575658}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23229,7 +23772,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2040483311}
   - component: {fileID: 2040483312}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23311,9 +23854,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1172827326}
     m_Modifications:
+    - target: {fileID: 1232391161169182238, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1272760748517840222, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278360175521858356, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1530875847081985276, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_RootOrder
@@ -23374,6 +23925,10 @@ PrefabInstance:
     - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Name
       value: Trampas_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2896230500537348181, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23535,7 +24090,7 @@ RectTransform:
   - {fileID: 1472941372}
   - {fileID: 483235031}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -23699,7 +24254,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2089300007}
   - component: {fileID: 2089300008}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23782,7 +24337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2097922995}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject_Escena_arboles_+1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23818,7 +24373,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2101750849}
   - component: {fileID: 2101750850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_0 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23903,7 +24458,7 @@ GameObject:
   - component: {fileID: 2103679515}
   - component: {fileID: 2103679517}
   - component: {fileID: 2103679516}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FLORES_0 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24013,7 +24568,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2108471635}
   - component: {fileID: 2108471636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24133,7 +24688,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2122630720}
   - component: {fileID: 2122630721}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24217,7 +24772,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2131627029}
   - component: {fileID: 2131627030}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ROCAS_01_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24301,7 +24856,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2132288336}
   - component: {fileID: 2132288337}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_3 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24385,7 +24940,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2138701140}
   - component: {fileID: 2138701141}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TRONCO_01_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24469,7 +25024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2145068034}
   - component: {fileID: 2145068035}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ARBOL_01_1 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24614,9 +25169,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1172827326}
     m_Modifications:
+    - target: {fileID: 1232391161169182238, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1272760748517840222, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278360175521858356, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1530875847081985276, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_RootOrder
@@ -24678,6 +25241,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1917389377639979601, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2896230500537348181, guid: a56e6eae744fe4e46b58e98015e38a1c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.1459816
@@ -24702,9 +25269,41 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1172827326}
     m_Modifications:
+    - target: {fileID: 5030277467502261929, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277467596250119, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277468520903995, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469117061638, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469180349359, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469382855121, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5030277469482700752, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5033977852842224788, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
       propertyPath: m_Name
       value: Suelo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033977852842224788, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6572247511415702654, guid: 975a777c3fa986a449b36b87834444f4, type: 3}
       propertyPath: m_RootOrder
@@ -24807,13 +25406,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1656532250905500224, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2559299345549676945, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_Layer
-      value: 7
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4177283668613770130, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990795930842857248, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666077628716227266, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903305120168666388, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7810547205470320182, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_RootOrder
@@ -24874,6 +25489,10 @@ PrefabInstance:
     - target: {fileID: 8376797796103165350, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8414327014178032615, guid: f8158ef3fd032e54c8c92109f9e2ca6f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
