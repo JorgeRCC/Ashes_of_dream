@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MovePlayer : MonoBehaviour
 
 {
+    int trampasLayer; //ID de la capa trampas
+
     private Rigidbody2D rb2D;
 
     [Header("Movement")]
@@ -46,6 +49,18 @@ public class MovePlayer : MonoBehaviour
         rb2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
+        trampasLayer = LayerMask.NameToLayer("Trampas");  //ID de la capa trampas
+
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == trampasLayer)
+        {
+            //Matar al Jugador
+            SceneManager.LoadScene("GameOver");
+            Debug.Log("Muerto");
+        }
     }
 
     // Update is called once per frame
