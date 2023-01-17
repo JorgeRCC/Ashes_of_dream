@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Play
+  m_Text: 'Reiniciar nivel
 
 '
 --- !u!222 &218827150
@@ -267,7 +267,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &666384468
 RectTransform:
   m_ObjectHideFlags: 0
@@ -401,7 +401,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &718485836
 RectTransform:
   m_ObjectHideFlags: 0
@@ -600,6 +600,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &857888538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 857888540}
+  - component: {fileID: 857888539}
+  m_Layer: 0
+  m_Name: GameMenu_ReiniciarNivel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &857888539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 857888538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e085ee39c2b961b488c3ba1eec46da61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &857888540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 857888538}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 494.91592, y: 200.65973, z: 10.646935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1028025398
 GameObject:
@@ -1030,8 +1074,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.0134, y: 99.364}
-  m_SizeDelta: {x: 308.5245, y: 169.9294}
+  m_AnchoredPosition: {x: 4, y: 106.92569}
+  m_SizeDelta: {x: 576.2075, y: 154.8061}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1843271750
 MonoBehaviour:
@@ -1066,7 +1110,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ashes of dream
+  m_Text: 'Ashes of dream
+
+    GAME OVER'
 --- !u!222 &1843271751
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1359,9 +1405,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1028025401}
-        m_TargetAssemblyTypeName: Boton_Play, Assembly-CSharp
-        m_MethodName: EscenaPlay
+      - m_Target: {fileID: 857888539}
+        m_TargetAssemblyTypeName: Button_Reiniciar, Assembly-CSharp
+        m_MethodName: EscenaReiniciar
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
