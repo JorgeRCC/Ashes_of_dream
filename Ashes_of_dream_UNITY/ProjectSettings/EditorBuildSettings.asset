@@ -14,12 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Escenas/Menu.unity
     guid: 8c39dfebf0b211d42a20efd1906066fd
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Escenas/Nivel_01.unity
-    guid: 4bf2fabe5ac7ab04db04c3d122abc3af
+    guid: c90295bdb121cf0459720ddb4a86dca7
   - enabled: 1
     path: Assets/Escenas/Nivel_02.unity
     guid: 320d720cb07aca64f8c9993e9a2cf523
@@ -29,7 +26,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Escenas/GameOver.unity
     guid: 3ad9b3ba952e21f459098f8818bb8003
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   m_configObjects: {}
