@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: ac69b721b2c9d584c973b704060301c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MUROS_03_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3159
+        width: 948
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd83058434ad124b95d7068a4866568
+      internalID: 688600694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_1
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3732
+        width: 1150
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a8150ff24b8d0498087cf4de57e828
+      internalID: 1183529951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_2
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 3046
+        width: 1480
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54021e92c2f0b4995d494ed84d0b93
+      internalID: 840959012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_3
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3049
+        width: 504
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf96d9fdcd3a448968c00a8f441583
+      internalID: -1310196585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_4
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3017
+        width: 687
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a57fb7c11ff0bb43be7c1ae4b9d1c8c
+      internalID: 997128431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_5
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 2998
+        width: 719
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b8754762244b4bb7c2d9cac3d4a13
+      internalID: 1379211240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1268
+        width: 1261
+        height: 1617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dafe7f64806b5042a007b976940d6ca
+      internalID: 1923058668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_7
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1685
+        width: 825
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cecc19bf83672849bce64a225eb7947
+      internalID: -1786755680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_8
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 1470
+        width: 1237
+        height: 1416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624f825d289b0a439e12f5c41deb695
+      internalID: -1874520797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_10
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 2121
+        width: 826
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbdddc71ae60b44c9d21d6c992f1fdd
+      internalID: 2029432965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_11
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 2147
+        width: 662
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f3eea0fc7db214a841ea89f69957ce
+      internalID: 45878874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_19
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 1404
+        width: 275
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6986b2bce879aa47a6d0e97df4c54a1
+      internalID: 310781174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_22
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 1458
+        width: 370
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e8c2ea9c48d743a980c9b16c2ee95
+      internalID: 569711098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 426
+        width: 274
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04867a9a8d303474b82c2bcafcdd46c6
+      internalID: 1578111448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 630
+        width: 369
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a15e3d03f6d6f44fa033852dd0a4949
+      internalID: 444387654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 580
+        width: 472
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43bcded1d1a256468e3b63b4f956f00
+      internalID: -506294967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_27
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 641
+        width: 687
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85765535f549d7428d9712321e1b2c7
+      internalID: -1070345660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_28
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 637
+        width: 719
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e389fc2cad734eb2aaead2423f0f0
+      internalID: 1819561873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_29
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 762
+        width: 453
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4aca6a01cb33e4c9b46eb5372bd389
+      internalID: -624803809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_30
+      rect:
+        serializedVersion: 2
+        x: 4782
+        y: 589
+        width: 434
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba893175cef4f469b8f1ab5a651be6
+      internalID: -1443434495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 153
+        width: 453
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5e26c4bd7d68f4bbfbf1574a82ab96
+      internalID: -1057836109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_32
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 145
+        width: 433
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24039437749fa4eacbe45997c1813b
+      internalID: -1965565818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_33
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 181
+        width: 822
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f3c675a27a44e4b930eac40db9b923
+      internalID: -874469774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_34
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 183
+        width: 661
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395aa46a4fe7c1b4b946df97213303bf
+      internalID: 1900770334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUROS_03_35
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 124
+        width: 471
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e7d05471ffc24299724ff7f6059f6
+      internalID: 128229957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MUROS_03_34: 1900770334
+      MUROS_03_32: -1965565818
+      MUROS_03_3: -1310196585
+      MUROS_03_18: -974587986
+      MUROS_03_31: -1057836109
+      MUROS_03_27: -1070345660
+      MUROS_03_9: 512945758
+      MUROS_03_29: -624803809
+      MUROS_03_13: 1110697820
+      MUROS_03_19: 310781174
+      MUROS_03_25: 444387654
+      MUROS_03_35: 128229957
+      MUROS_03_7: -1786755680
+      MUROS_03_24: 1578111448
+      MUROS_03_17: 378379002
+      MUROS_03_8: -1874520797
+      MUROS_03_23: -243830619
+      MUROS_03_12: 301291656
+      MUROS_03_30: -1443434495
+      MUROS_03_6: 1923058668
+      MUROS_03_21: -623088149
+      MUROS_03_33: -874469774
+      MUROS_03_10: 2029432965
+      MUROS_03_20: -1211150527
+      MUROS_03_5: 1379211240
+      MUROS_03_2: 840959012
+      MUROS_03_11: 45878874
+      MUROS_03_1: 1183529951
+      MUROS_03_16: -1417831736
+      MUROS_03_14: 449602374
+      MUROS_03_0: 688600694
+      MUROS_03_28: 1819561873
+      MUROS_03_4: 997128431
+      MUROS_03_22: 569711098
+      MUROS_03_26: -506294967
+      MUROS_03_15: 779476141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
