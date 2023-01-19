@@ -297,7 +297,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40634757}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.004715, y: 17.179998, z: -12.059999}
+  m_LocalPosition: {x: 54.704712, y: 15.58, z: -12.059999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -976,7 +976,7 @@ GameObject:
   - component: {fileID: 129142127}
   - component: {fileID: 129142128}
   - component: {fileID: 129142129}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MUROS_01_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6875,33 +6875,49 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 810400322}
     m_Modifications:
+    - target: {fileID: 618144759663736447, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -46.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 618144759663736447, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846090982391468385, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846090982391468385, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.1
+      objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_RootOrder
       value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.2893881
+      value: 0.7309412
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.2893881
+      value: 0.7309412
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.2893881
+      value: 0.7309412
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 160.63913
+      value: 136.12
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 27.247458
+      value: 55.57
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 8.456488
+      value: 6.5893
       objectReference: {fileID: 0}
     - target: {fileID: 2928059123357604198, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6934,6 +6950,14 @@ PrefabInstance:
     - target: {fileID: 4244691500935023321, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
       propertyPath: m_Name
       value: Trampa_04 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7393255368164895474, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -40.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7393255368164895474, guid: bfe5e5ed67e03ad419753ff36a46991a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -8194,7 +8218,7 @@ Transform:
   m_GameObject: {fileID: 973629282}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 74.3, y: 6.4, z: 2.5928}
-  m_LocalScale: {x: 1.2329259, y: 1.1726637, z: 0.77556175}
+  m_LocalScale: {x: 1.5030137, y: 1.4006002, z: 0.77556175}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1753066959}
@@ -11630,7 +11654,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352623865}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.004715, y: 17.179998, z: -12.059999}
+  m_LocalPosition: {x: 54.704712, y: 15.58, z: -12.059999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12848,7 +12872,7 @@ GameObject:
   - component: {fileID: 1490511133}
   - component: {fileID: 1490511135}
   - component: {fileID: 1490511134}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MUROS_01_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17948,7 +17972,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2015735359}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6, y: 10.4, z: -2.06}
+  m_LocalPosition: {x: 41.1, y: 8.8, z: -2.06}
   m_LocalScale: {x: 0.60225, y: 0.60225, z: 0.60225}
   m_ConstrainProportionsScale: 0
   m_Children:
