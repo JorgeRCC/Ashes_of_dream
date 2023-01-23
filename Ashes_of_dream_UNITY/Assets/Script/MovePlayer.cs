@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class MovePlayer : MonoBehaviour
 
 {
+   public GameManager GameManager;
     int trampasLayer; //ID de la capa trampas
 
     private Rigidbody2D rb2D;
@@ -52,16 +53,16 @@ public class MovePlayer : MonoBehaviour
         trampasLayer = LayerMask.NameToLayer("Trampas");  //ID de la capa trampas
 
     }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.layer == trampasLayer)
         {
-            //Matar al Jugador
-            SceneManager.LoadScene("GameOver");
-            Debug.Log("Muerto");
+            {
+			GameManager.Instance.PerderVida();
+		}
         }
     }
+
 
     // Update is called once per frame
     void Update()

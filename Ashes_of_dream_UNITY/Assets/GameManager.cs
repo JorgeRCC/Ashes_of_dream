@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
+using System;
 
 public class GameManager : MonoBehaviour
 {
@@ -36,10 +37,9 @@ public class GameManager : MonoBehaviour
 
 		if(vidas == 0)
 		{
-			// Reiniciamos el nivel.
-			SceneManager.LoadScene(0);
+			
+			SceneManager.LoadScene(3);
 		}
-
 		hud.DesactivarVida(vidas);
 	}
 
