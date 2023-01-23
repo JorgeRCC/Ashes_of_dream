@@ -35,6 +35,7 @@ public class GameManager : MonoBehaviour
 	public void PerderVida() {
 		vidas -= 1;
 
+		if(vidas == 0)
 		{
 			
 			SceneManager.LoadScene(3);
