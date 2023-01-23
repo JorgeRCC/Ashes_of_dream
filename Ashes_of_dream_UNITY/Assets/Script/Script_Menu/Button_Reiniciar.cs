@@ -7,7 +7,7 @@ public class Button_Reiniciar : MonoBehaviour
 {
     public void EscenaReiniciar()
     {
-        SceneManager.LoadScene("Nivel_03_prueba");
+        SceneManager.LoadScene("Nivel_03");
 
     }
 
