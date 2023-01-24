@@ -13,7 +13,9 @@ public class Coin : MonoBehaviour
         if(collision.CompareTag("Player"))
         {
             gameManager.SumarPuntos(valor);
+            AudioManager.instance.PlayAudio(AudioManager.instance.Moneda);
             Destroy(this.gameObject);
+            
         }
         
     }
