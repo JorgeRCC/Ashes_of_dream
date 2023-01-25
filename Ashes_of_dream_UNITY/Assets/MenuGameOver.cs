@@ -8,7 +8,7 @@ public class MenuGameOver : MonoBehaviour
 
    public void Reiniciar()
    {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    SceneManager.LoadScene(2);
    }
 
    public void MenuInicial(string nombre)
