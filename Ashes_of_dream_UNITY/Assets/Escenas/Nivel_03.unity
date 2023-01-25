@@ -3350,6 +3350,10 @@ PrefabInstance:
       propertyPath: m_fontColor.r
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1916879566540068914, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1218882829, guid: c70c180e8578cf3469034c7822f33f50, type: 3}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1916879565483351596, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
@@ -8414,6 +8418,10 @@ PrefabInstance:
       propertyPath: m_fontColor.r
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1916879566540068914, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1218882829, guid: c70c180e8578cf3469034c7822f33f50, type: 3}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1916879565483351596, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
@@ -10634,6 +10642,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1916879566540068914, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1218882829, guid: c70c180e8578cf3469034c7822f33f50, type: 3}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1916879565483351596, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
@@ -11114,6 +11126,10 @@ PrefabInstance:
       propertyPath: m_fontColor.r
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1916879566540068914, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1218882829, guid: c70c180e8578cf3469034c7822f33f50, type: 3}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1916879565483351596, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
@@ -17256,6 +17272,10 @@ PrefabInstance:
       propertyPath: m_fontColor.r
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1916879566540068914, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1218882829, guid: c70c180e8578cf3469034c7822f33f50, type: 3}
     m_RemovedComponents: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1916879565483351596, guid: 80b5879afc40a5e49bc3ca679b7312e7, type: 3}
