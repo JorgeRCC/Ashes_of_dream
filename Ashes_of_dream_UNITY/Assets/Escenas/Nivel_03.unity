@@ -568,7 +568,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40634757}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 884.74176, y: 528.56, z: -12.059999}
+  m_LocalPosition: {x: -3.8510742, y: 15.76, z: -12.059999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2208,6 +2208,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (17)
@@ -3633,6 +3637,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (15)
@@ -4806,6 +4814,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (16)
@@ -6394,6 +6406,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (1)
@@ -7376,6 +7392,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (12)
@@ -7460,8 +7480,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 740906022}
   - {fileID: 476030623}
+  - {fileID: 740906022}
   - {fileID: 351395181}
   - {fileID: 1646973648}
   - {fileID: 1622810520}
@@ -9360,6 +9380,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (9)
@@ -12957,6 +12981,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin
@@ -13328,6 +13356,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (5)
@@ -13695,6 +13727,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (13)
@@ -17920,6 +17956,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (11)
@@ -23306,7 +23346,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352623865}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 884.74176, y: 528.56, z: -12.059999}
+  m_LocalPosition: {x: -3.8510742, y: 15.76, z: -12.059999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23759,6 +23799,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (10)
@@ -24870,6 +24914,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (8)
@@ -25642,6 +25690,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (4)
@@ -28939,6 +28991,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (7)
@@ -29225,6 +29281,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (3)
@@ -30371,6 +30431,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (2)
@@ -31020,6 +31084,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (14)
@@ -34889,6 +34957,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 413226950}
     m_Modifications:
+    - target: {fileID: 1674753950691215365, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233124057}
     - target: {fileID: 1674753950691215417, guid: 8f6f01b6f10c643418f2f85bcef3f149, type: 3}
       propertyPath: m_Name
       value: Coin (6)
@@ -35280,7 +35352,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2015735359}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 868, y: 521, z: -2.06}
+  m_LocalPosition: {x: -20.6, y: 8.2, z: -2.06}
   m_LocalScale: {x: 0.60225, y: 0.60225, z: 0.60225}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -35336,7 +35408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4712d54e61b30f643b8e094e0cd23477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameManager: {fileID: 0}
+  GameManager: {fileID: 233124057}
   moveSpeed: 400
   motionSmoothing: 0.15
   airMovementSpeed: 300

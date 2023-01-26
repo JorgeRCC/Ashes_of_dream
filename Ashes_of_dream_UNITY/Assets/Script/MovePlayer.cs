@@ -58,8 +58,9 @@ public class MovePlayer : MonoBehaviour
         if (collision.gameObject.layer == trampasLayer)
         {
             {
-			GameManager.Instance.PerderVida();
-		}
+			    GameManager.Instance.PerderVida();
+		
+            }
         }
     }
 
