@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 969e261f63db92248babef537b3d0beb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88affdf6df988ed46bfa7ac7ce65866a
+      internalID: -441664361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 429
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe291f4d08d544c846ada3891053fa
+      internalID: 112077950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 427
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2145f432eb66ec14e908429378c76dc1
+      internalID: 949907861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 434
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aea5df377513bc4d85d460f065e4be7
+      internalID: -1546030558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 434
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1de6b1e05a3e34f8140ed04e1a62bf
+      internalID: 679019332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 430
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a60eaa9f07c9f4ebf0507b3f6914ad
+      internalID: -1771156370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 345
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce223caec6b6244ca70495b10396d95
+      internalID: -56121458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 345
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8db7c4190508549acab63d2070fb2b
+      internalID: -1328617200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 346
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008057c7386dc744db4659138e5c41d8
+      internalID: 811252282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 346
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b0f83ae399ec48b1cf51cfc07e171
+      internalID: 713281089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 347
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f012f5308b91294b84043f2c3e6d072
+      internalID: -1895017002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 345
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa01e12028a5b4ebd2ca0ed909d0ca
+      internalID: -2144151393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31dc392f84e9046b58de012d2e1e14
+      internalID: -1685756787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 255
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dbd372966360a4ab6006cc40b23294
+      internalID: 291103646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 255
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a824dbaf501bbf645b34a65e85446b9f
+      internalID: -323114290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf81c6a7c9c304c9d8ff392fb6a6ea
+      internalID: -1184410562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 256
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b83370d3d086b42928d40560b77efe
+      internalID: -1549703302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 256
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a557ef6048f2e6749ab396642da1eb6c
+      internalID: 445124377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9631da99d7b144942cf5a95c1d881
+      internalID: 864073845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 169
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e0cb27dfcf9a408a2a69ef67d915c
+      internalID: 2010577703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 171
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d783973048cfd0345b306dcb1b5a5aed
+      internalID: 852477613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9367bb417c692f4d9c7086bc0fe6366
+      internalID: -25539682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32502886e659a46a0916d4087a62aa
+      internalID: -1251571278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 168
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f0afb0c3c8f64eb084ddbe2b28f02
+      internalID: -581328449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0c7f84682a3af469f61b3d385bb858
+      internalID: -614466578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eb7bd49f0ba5846ba10418d2ffc91f
+      internalID: -274953348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 86
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c68fcd635ce94089c57c510c2ad48
+      internalID: 651490950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 92
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171f4a31d1d651d4896f452ae791385f
+      internalID: 225240998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 94
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0f26a3906e0e747b82ce938de4c2a5
+      internalID: -242185939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 93
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c0caac7871b649a8cb5802213b3e0
+      internalID: -1703426438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41db5c35cb64e4b84edae0ac78ab15
+      internalID: 597840898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa55ed95e11ebe643b807dbabd0c032e
+      internalID: -2076839239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_32
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 8
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f22f1645c27bb4680ecae3805a6668
+      internalID: -1650594613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnerSpriteSheet_Unity #141100_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 11
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56507627aa191134e87763c829dd4321
+      internalID: -997341281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpinnerSpriteSheet_Unity #141100_15: -1184410562
+      SpinnerSpriteSheet_Unity #141100_4: -228130696
+      SpinnerSpriteSheet_Unity #141100_6: -262373892
+      SpinnerSpriteSheet_Unity #141100_9: -264870692
+      SpinnerSpriteSheet_Unity #141100_1: 2092717385
+      SpinnerSpriteSheet_Unity #141100_13: 291103646
+      SpinnerSpriteSheet_Unity #141100_21: 852477613
+      SpinnerSpriteSheet_Unity #141100_12: -1685756787
+      SpinnerSpriteSheet_Unity #141100_25: -614466578
+      SpinnerSpriteSheet_Unity #141100_27: 651490950
+      SpinnerSpriteSheet_Unity #141100_17: -1549703302
+      SpinnerSpriteSheet_Unity #141100_7: 1964662705
+      SpinnerSpriteSheet_Unity #141100_19: 864073845
+      SpinnerSpriteSheet_Unity #141100_26: -274953348
+      SpinnerSpriteSheet_Unity #141100_5: -719840993
+      SpinnerSpriteSheet_Unity #141100_2: -1364387855
+      SpinnerSpriteSheet_Unity #141100_14: -323114290
+      SpinnerSpriteSheet_Unity #141100_32: 234753452
+      SpinnerSpriteSheet_Unity #141100_8: 1078894995
+      SpinnerSpriteSheet_Unity #141100_10: 423800559
+      SpinnerSpriteSheet_Unity #141100_22: -25539682
+      SpinnerSpriteSheet_Unity #141100_29: 880103883
+      SpinnerSpriteSheet_Unity #141100_31: -1703426438
+      SpinnerSpriteSheet_Unity #141100_11: -24730731
+      SpinnerSpriteSheet_Unity #141100_18: 445124377
+      SpinnerSpriteSheet_Unity #141100_24: -581328449
+      SpinnerSpriteSheet_Unity #141100_30: -242185939
+      SpinnerSpriteSheet_Unity #141100_0: 1661478185
+      SpinnerSpriteSheet_Unity #141100_3: -1841548363
+      SpinnerSpriteSheet_Unity #141100_16: -902643423
+      SpinnerSpriteSheet_Unity #141100_20: 2010577703
+      SpinnerSpriteSheet_Unity #141100_33: 597840898
+      SpinnerSpriteSheet_Unity #141100_28: 225240998
+      SpinnerSpriteSheet_Unity #141100_23: -1251571278
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

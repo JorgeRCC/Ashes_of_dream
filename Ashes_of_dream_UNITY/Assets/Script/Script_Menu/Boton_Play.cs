@@ -7,7 +7,8 @@ public class Boton_Play : MonoBehaviour
 {
     public void EscenaPlay()
     {
-        SceneManager.LoadScene("Nivel_01");
+        LevelLoader.LoadLevel("Nivel_01");
+        //SceneManager.LoadScene("Nivel_01");
 
     }
 
