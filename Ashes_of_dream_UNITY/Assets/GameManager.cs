@@ -38,7 +38,7 @@ public class GameManager : MonoBehaviour
 		if(vidas == 0)
 		{
 			
-			SceneManager.LoadScene("GameOver");
+			SceneManager.LoadScene("GameOver_Nivel");
 		}
 		hud.DesactivarVida(vidas);
 	}

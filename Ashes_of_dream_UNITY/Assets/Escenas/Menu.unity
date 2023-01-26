@@ -6246,7 +6246,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &404492398
 Transform:
   m_ObjectHideFlags: 0
@@ -36282,8 +36282,8 @@ MonoBehaviour:
   - {fileID: 1345315347}
   - {fileID: 1961340148}
   m_Bounds:
-    m_Center: {x: 0.00000023841858, y: 0.0000019073486, z: 0}
-    m_Extent: {x: 1.8300004, y: 10, z: 0}
+    m_Center: {x: 0, y: 0.0000019073486, z: 0}
+    m_Extent: {x: 1.8300006, y: 10.000002, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
   m_AutoRebind: 0
