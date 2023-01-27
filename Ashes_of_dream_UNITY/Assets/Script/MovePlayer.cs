@@ -43,10 +43,17 @@ public class MovePlayer : MonoBehaviour
 
     private Animator animator;
 
+    private PasosD pasosd;
+
+    private PasosI pasosi;
+
 
     // Start is called before the first frame update
     void Start()
     {
+        pasosd = GetComponentInChildren<PasosD>();
+        pasosi = GetComponentInChildren<PasosI>();
+
         rb2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
@@ -132,5 +139,15 @@ public class MovePlayer : MonoBehaviour
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireCube(floorController.position, boxDimensions);
+    }
+
+    private void PisarD() 
+    {
+        pasosd.playAudio();
+    }
+
+    private void PisarI()
+    {
+        pasosi.playAudio();
     }
 }
