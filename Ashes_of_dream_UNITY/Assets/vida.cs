@@ -8,8 +8,9 @@ public class vida : MonoBehaviour
 		if(other.gameObject.CompareTag("Player"))
 		{
 			bool vidaRecuperada = GameManager.Instance.RecuperarVida();
-			
-			if(vidaRecuperada) {
+			AudioManager.instance.PlayAudio(AudioManager.instance.Vida);
+
+			if (vidaRecuperada) {
 				Destroy(this.gameObject);
 			}
 		}

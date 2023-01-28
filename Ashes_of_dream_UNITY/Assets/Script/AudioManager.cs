@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class AudioManager : MonoBehaviour
 {
     public AudioMixer musicMixer, effectsMixer;
-    public AudioSource Nivel_M, Ambientacion, Moneda;
+    public AudioSource Nivel_M, Ambientacion, Moneda, Vida;
     public static AudioManager instance;
 
     [Range(-80, 10)]
