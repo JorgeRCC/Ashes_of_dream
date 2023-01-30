@@ -23,7 +23,10 @@ public class MainMenu : MonoBehaviour
     {
         LevelLoader.LoadLevel("Nivel_01");
     }
-
+    public void Creditos()
+    {
+        LevelLoader.LoadLevel("Creditos");
+    }
     public void Exit()
     {
         Debug.Log("Salir...");

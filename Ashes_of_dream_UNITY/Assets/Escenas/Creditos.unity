@@ -9811,32 +9811,37 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ashes of Dream\n\nDise\xF1ador de Niveles\nCcoa Cari, Jorge Raul\n\r\nDise\xF1ador
-    de Juego\nCcoa Cari, Jorge Raul\nArnica Suarez, Percy Kharel\n\r\nDise\xF1ador
-    de Personaje\nCcoa Cari, Jorge Raul\n\r\nDise\xF1ador de Enemigos\nCcoa Cari,
-    Jorge Raul\n\r\nDise\xF1ador de Animaciones Personaje\nCcoa Cari, Jorge Raul\nArnica
-    Suarez, Percy Kharel\n\r\nDise\xF1ador de Animaciones Obstaculos\nCcoa Cari,
-    Jorge Raul\nGonzales Tinta, Brandon Abdiel\n\r\nDise\xF1ador de la Interfaz Principal
-    del Jugador\nLlerena Rivera, Luis Franco\r\n\r\nDise\xF1ador de Pantalla de Carga\n\r\nDise\xF1ador
-    de Menu Principal\nArnica Suarez, Percy Kharel\r\n\r\nDise\xF1ador de Interfaz
-    de Pausa\nArnica Suarez, Percy Kharel\r\n\r\nDise\xF1ador de Pantalla de Game
-    Over\nLlerena Rivera, Luis Franco\n\r\nDise\xF1ador de Escenarios\nCcoa Cari,
-    Jorge Raul\n\r\nDise\xF1ador de Notas:\r\n\r\nGuionista\nArnica Suarez, Percy
-    Kharel\r\r\r\n\r\nProgramador de Personaje\nArnica Suarez, Percy Kharel\r\r\n\r\nProgramador
-    de Enemigos\nGonzales Tinta, Brandon Abdiel\n\r\nProgramador de Cambio de Escenas\nGonzales
-    Tinta, Brandon Abdiel\r\n\r\nProgramador del Menu Principal\nArnica Suarez, Percy
-    Kharel\r\r\n\r\nProgramador de la Interfaz Principal del Jugador\nLlerena Rivera,
-    Luis Franco\r\n\r\nProgramador de Pantalla de Carga:\r\n\r\nProgramador de Interfaz
-    de Pausa\nArnica Suarez, Percy Kharel\r\r\n\r\nProgramador de Pantalla de Game
-    Over\nLlerena Rivera, Luis Franco\r\n\r\nProgramador de Notas\nGonzales Tinta,
-    Brandon Abdiel\r\n\r\nIntegrador de C\xE1mara\nArnica Suarez, Percy Kharel\r\n\r\nIntegrador
-    de Sonido\nArnica Suarez, Percy Kharel\r\r\r\n\r\nArtista Conceptual\nCcoa Cari,
-    Jorge Raul\n\r\nControl de Calidad\nCcoa Cari, Jorge Raul\nGonzales Tinta, Brandon
-    Abdiel\nLlerena Rivera, Luis Franco\nArnica Suarez, Percy Kharel\r\n\r\nTesters\nCcoa
-    Cari, Jorge Raul\nGonzales Tinta, Brandon Abdiel\nLlerena Rivera, Luis Franco\nArnica
-    Suarez, Percy Kharel\r\n\r\nEfectos Visuales:\n\n\nAshes of Dream usa Unity\r\nCopyright
-    2005-2023 Unity Technologies.\r\n(y sus licenciantes)\r\nTodos los derechos reservados\r\nVisitar
-    www.unity.com/es para mas detalles\n"
+  m_text: "Ashes of Dream\r\n\r\nDise\xF1ador de Niveles\r\nCcoa Cari, Jorge Raul\r\n\r\nDise\xF1ador
+    de Juego\r\nCcoa Cari, Jorge Raul\r\nArnica Suarez, Percy Kharel\r\n\r\nDise\xF1ador
+    de Personaje\r\nCcoa Cari, Jorge Raul\r\n\r\nDise\xF1ador de Enemigos\r\nCcoa
+    Cari, Jorge Raul\r\n\r\nDise\xF1ador de Animaciones Personaje\r\nArnica Suarez,
+    Percy Kharel\r\n\r\nDise\xF1ador de Animaciones Obstaculos\r\nCcoa Cari, Jorge
+    Raul\r\nGonzales Tinta, Brandon Abdiel\r\n\r\nDise\xF1ador de la Interfaz Principal
+    del Jugador\r\nLlerena Rivera, Luis Franco\r\n\r\nDise\xF1ador de Pantalla de
+    Carga\r\nCcoa Cari, Jorge Raul\r\n\r\nDise\xF1ador de Menu Principal\r\nArnica
+    Suarez, Percy Kharel\r\n\r\nDise\xF1ador de Interfaz de Pausa\r\nArnica Suarez,
+    Percy Kharel\r\n\r\nDise\xF1ador de Pantalla de Game Over\r\nLlerena Rivera,
+    Luis Franco\r\nCcoa Cari, Jorge Raul\r\n\r\nDise\xF1ador de Escenarios\r\nCcoa
+    Cari, Jorge Raul\r\n\r\nDise\xF1ador de Notas:\r\nGonzales Tinta, Brandon Abdiel\r\n\r\nGuionista\r\nArnica
+    Suarez, Percy Kharel\r\n\r\n\r\nProgramador de Personaje\r\nArnica Suarez, Percy
+    Kharel\r\n\r\n\r\nProgramador de Enemigos\r\nGonzales Tinta, Brandon Abdiel\r\n\r\nProgramador
+    de Cambio de Escenas\r\nGonzales Tinta, Brandon Abdiel\r\n\r\nProgramador del
+    Menu Principal\r\nArnica Suarez, Percy Kharel\r\n\r\n\r\nProgramador de la Interfaz
+    Principal del Jugador\r\nLlerena Rivera, Luis Franco\r\n\r\nProgramador de Pantalla
+    de Carga:\r\nLlerena Rivera, Luis Franco\r\n\r\nProgramador de Interfaz de Pausa\r\nArnica
+    Suarez, Percy Kharel\r\n\r\n\r\nProgramador de Pantalla de Game Over\r\nLlerena
+    Rivera, Luis Franco\r\nCcoa Cari, Jorge Raul\r\n\r\nProgramador de Notas\r\nGonzales
+    Tinta, Brandon Abdiel\r\n\r\nIntegrador de C\xE1mara\r\nArnica Suarez, Percy
+    Kharel\r\n\r\nIntegrador de Sonido\r\nArnica Suarez, Percy Kharel\r\n\r\nArtista
+    Conceptual\r\nCcoa Cari, Jorge Raul\r\n\r\nControl de Calidad\r\nCcoa Cari, Jorge
+    Raul\r\nGonzales Tinta, Brandon Abdiel\r\nLlerena Rivera, Luis Franco\r\nArnica
+    Suarez, Percy Kharel\r\n\r\nTesters\r\nCcoa Cari, Jorge Raul\r\nGonzales Tinta,
+    Brandon Abdiel\r\nLlerena Rivera, Luis Franco\r\nArnica Suarez, Percy Kharel\r\n\r\nEfectos
+    Visuales:\r\nCcoa Cari, Jorge Raul\r\nGonzales Tinta, Brandon Abdiel\r\nLlerena
+    Rivera, Luis Franco\r\nArnica Suarez, Percy Kharel\r\nMamani Cccoa, Adan Williams
+    (Particulas-Luciernagas.)\r\n\n\n\r\nAshes of Dream usa Unity\r\nCopyright 2005-2023
+    Unity Technologies.\r\n(y sus licenciantes)\r\nTodos los derechos reservados\r\nVisitar
+    www.unity.com/es para mas detalles.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
   m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
@@ -9899,7 +9904,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -574.6586, y: -245.68399, z: -524.7355, w: -293.94354}
+  m_margin: {x: -26.31366, y: 30.549025, z: -17.008362, w: 9.143431}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
